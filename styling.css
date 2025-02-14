@@ -28,21 +28,21 @@ body {
     padding: .5em;
     top: 0;
     position: sticky;
-    }
+  }
 
-    nav ul {
+  nav ul {
         margin: 0;
         padding: 0;
         list-style: none;
         display: flex;
         justify-content: space-between;
-    }
+  }
 
-    nav a {
+  nav a {
         color: #fff;
         text-decoration: none;
         padding: .5em 1em;
-    }
+  }
 
   
   .photos {
